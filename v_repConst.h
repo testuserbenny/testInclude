@@ -4,7 +4,7 @@
 #define VREP_PROGRAM_VERSION_NB 30401
 #define VREP_PROGRAM_VERSION "3.4.1."
 
-#define VREP_PROGRAM_REVISION_NB 0
+#define VREP_PROGRAM_REVISION_NB 1000
 #define VREP_PROGRAM_REVISION "(rev. 0)"
 
 /* Scene object types. Values are serialized */
